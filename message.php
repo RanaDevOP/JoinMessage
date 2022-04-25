@@ -2,7 +2,7 @@
 
 
 
-namespace CustomJoinMessage\Blood;
+namespace JoinMessage\Rana;
 
 
 
@@ -48,7 +48,7 @@ class message extends PluginBase implements Listener {
 
     
 
-        $this->getLogger()->info("======Custom Join Message By Bloodsucker Is Enable======");
+        $this->getLogger()->info("Plugin Enabled By Rana ✅");
 
      
 
