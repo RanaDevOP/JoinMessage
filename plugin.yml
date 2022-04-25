@@ -1,0 +1,8 @@
+---
+name: JoinMessage
+main: JoinMessage\Rana\message
+author: Rana
+api: 4.0.0
+version: 1.0
+description: "This Is JoinMessage Plugin Made By Rana"
+---
